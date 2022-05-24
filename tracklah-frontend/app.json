@@ -1,13 +1,14 @@
 {
   "expo": {
     "userInterfaceStyle": "automatic",
-    "name": "tracklah-frontend",
-    "slug": "tracklah-frontend",
+    "name": "Tracklah",
+    "slug": "tracklah-app",
+    "description": "Expense tracker for beginners",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/favicon.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/TracklahCover.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
